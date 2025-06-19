@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week1_DesignPatternsAndPrinciples\\02_FactoryPatterns\\FactoryApp\\FactoryApp.csproj",
-      "projectName": "FactoryApp",
-      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week1_DesignPatternsAndPrinciples\\02_FactoryPatterns\\FactoryApp\\FactoryApp.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week1_DesignPatternsAndPrinciples\\01_SingletonPrinciple\\02_FactoryPatterns\\FactoryPatternExample\\FactoryPatternExample.csproj",
+      "projectName": "FactoryPatternExample",
+      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week1_DesignPatternsAndPrinciples\\01_SingletonPrinciple\\02_FactoryPatterns\\FactoryPatternExample\\FactoryPatternExample.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week1_DesignPatternsAndPrinciples\\02_FactoryPatterns\\FactoryApp\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week1_DesignPatternsAndPrinciples\\01_SingletonPrinciple\\02_FactoryPatterns\\FactoryPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

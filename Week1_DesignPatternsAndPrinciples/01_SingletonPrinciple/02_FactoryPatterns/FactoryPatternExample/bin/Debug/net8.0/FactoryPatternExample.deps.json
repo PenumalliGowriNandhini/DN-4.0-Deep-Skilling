@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "FactoryApp/1.0.0": {
+      "FactoryPatternExample/1.0.0": {
         "runtime": {
-          "FactoryApp.dll": {}
+          "FactoryPatternExample.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FactoryApp/1.0.0": {
+    "FactoryPatternExample/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
