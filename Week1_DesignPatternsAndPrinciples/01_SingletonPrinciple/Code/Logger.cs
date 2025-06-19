@@ -2,7 +2,7 @@ using System;
 
 namespace SingletonApp
 {
-    // Singleton Logger class
+    
     public class Logger
     {
         // Step 1: Create a private static instance variable
