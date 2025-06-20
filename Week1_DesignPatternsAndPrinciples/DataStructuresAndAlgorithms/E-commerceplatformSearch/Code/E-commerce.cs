@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+
 /// <summary>
 /// </summary>
 class Product
@@ -6,6 +7,7 @@ class Product
     public int ProductId { get; set; }
     public string ProductName { get; set; }
     public string Category { get; set; }
+
     public Product(int id, string name, string category)
     {
         ProductId = id;
@@ -18,6 +20,7 @@ class Product
         return $"ID: {ProductId}, Name: {ProductName}, Category: {Category}";
     }
 }
+
 class Program
 {
     /// <summary>
@@ -38,10 +41,12 @@ class Program
     static Product BinarySearch(Product[] products, string name)
     {
         int left = 0, right = products.Length - 1;
+
         while (left <= right)
         {
             int mid = (left + right) / 2;
             int result = string.Compare(products[mid].ProductName, name, StringComparison.OrdinalIgnoreCase);
+
             if (result == 0)
                 return products[mid];
             else if (result < 0)
@@ -65,10 +70,12 @@ class Program
 
         Console.WriteLine("🔍 Enter product name to search:");
         string input = Console.ReadLine();
+
         var linearResult = LinearSearch(products, input);
         Console.WriteLine(linearResult != null
             ? "✅ Found using Linear Search: " + linearResult
             : "❌ Not found using Linear Search.");
+
         Array.Sort(products, (p1, p2) => p1.ProductName.CompareTo(p2.ProductName));
         var binaryResult = BinarySearch(products, input);
         Console.WriteLine(binaryResult != null
