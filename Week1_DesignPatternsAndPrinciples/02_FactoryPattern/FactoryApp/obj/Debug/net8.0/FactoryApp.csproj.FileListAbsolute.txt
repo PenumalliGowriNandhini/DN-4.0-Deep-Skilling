@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\bin\Debug\net8.0\FactoryApp.exe
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\bin\Debug\net8.0\FactoryApp.deps.json
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\bin\Debug\net8.0\FactoryApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\bin\Debug\net8.0\FactoryApp.dll
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\bin\Debug\net8.0\FactoryApp.pdb
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.sourcelink.json
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.dll
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\refint\FactoryApp.dll
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.pdb
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\FactoryApp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week1_DesignPatternsAndPrinciples\02_FactoryPattern\FactoryApp\obj\Debug\net8.0\ref\FactoryApp.dll
