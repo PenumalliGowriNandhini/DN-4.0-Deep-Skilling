@@ -8,7 +8,6 @@ public class AppDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        // ✅ Disable encryption to fix untrusted SSL certificate error
         optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=RetailInventoryDb;Trusted_Connection=True;Encrypt=False;");
     }
 }
