@@ -19,7 +19,7 @@ class Program
             await context.Products.AddRangeAsync(product1, product2);
             await context.SaveChangesAsync();
 
-            Console.WriteLine("✅ Data inserted successfully using async methods.");
+            Console.WriteLine(" Data inserted successfully using async methods.");
         }
 
         var products = context.Products.Select(p => new
@@ -30,7 +30,7 @@ class Program
             Category = p.Category.Name
         }).ToList();
 
-        Console.WriteLine("\n📦 Product List:");
+        Console.WriteLine("\n Product List:");
         Console.WriteLine("-----------------------------------------");
         Console.WriteLine("ID\tName\t\tPrice\t\tCategory");
         Console.WriteLine("-----------------------------------------");
