@@ -287,11 +287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week4_WebAPI\\Week4_WebAPI_SwaggerDemo\\Week4_WebAPI_SwaggerDemo.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week4_WebAPI\\02_SwaggerDemo\\Week4_WebAPI_SwaggerDemo.csproj",
       "projectName": "Week4_WebAPI_SwaggerDemo",
-      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week4_WebAPI\\Week4_WebAPI_SwaggerDemo\\Week4_WebAPI_SwaggerDemo.csproj",
+      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week4_WebAPI\\02_SwaggerDemo\\Week4_WebAPI_SwaggerDemo.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week4_WebAPI\\Week4_WebAPI_SwaggerDemo\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week4_WebAPI\\02_SwaggerDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
